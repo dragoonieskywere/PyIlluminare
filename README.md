@@ -20,28 +20,11 @@
 
 ## 📦 How to Install and Run
 
-### Option 1: Using the Executable (Windows)
 The easiest way to use PyIlluminare is to download the pre-compiled installer from the **Releases** tab of this repository. No Python installation is required.
 
 1. Download the `PyIlluminare.exe` file.
 2. Run the installer and follow the on-screen steps.
 3. Open PyIlluminare from your Start Menu or Desktop.
-
-### Option 2: Running from Source Code
-If you prefer running the application directly via Python, make sure you have Python 3.8+ installed on your system.
-
-1. Clone the repository:
-`git clone https://github.com/dragoonieskywere/PyIlluminare.git`
-
-2. Navigate to the project directory:
-`cd PyIlluminare`
-
-3. Install the required dependencies:
-`pip install -r requirements.txt`
-
-4. Run the program:
-`python PyIlluminare.py`
-
 ---
 
 ## 🛠️ Compiling Your Own Executable
